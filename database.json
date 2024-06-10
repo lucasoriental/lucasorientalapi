@@ -222,7 +222,7 @@
     {
       "id": 3,
       "image": "/images/jobExperiences/freelancer_logo.png",
-      "jobTitle": "Graphic and WEB Designer & Audivisual Editor",
+      "jobTitle": "Graphic and WEB Designer & Audiovisual Editor",
       "companyName": "Freelancer",
       "time": "2018 - 2022",
       "responsibilities": "<ul class=\"list-json-experience\"><li>As a freelancer, I offered a <span>full range of services in design and audiovisual</span> production;</li><li>Actively participated in <span >UX/UI Design, providing visual services for websites and developing landing pages</span>;</li><li>Made <span >logos, resumes, brochures, banners, and other design elements</span>;</li><li>Expanded my expertise to <span >video and audio editing</span>, distinguishing myself in the creation of attractive <span >vignettes for YouTubers and online</span> influencers;</li><li>Produced <span >Reels, posts, and banners</span> adapted for various social media platforms, with a focus on <span >Instagram</span>."
@@ -254,10 +254,10 @@
         "images/technologies/react_icon.png",
         "images/technologies/sass_icon.png"
       ],
-      "projectDescription": "Here is the summary of my oficial portfolio! React/Vite, SCSS and Json are the main technologies on thisproject! Also have other ones such as HTML, CSS and JavaScript(Obviously), Swiper JS, Reveal JS, fontAwesome, RectDOM, Router,Hooks, sonarLint and GitHub Pages! NPM and Git for versioncontrol!The main goal of this project is display my skills, professionaljourney and Works (Professional and Personal)!",
-      "website": "",
+      "projectDescription": "Here is the summary of my oficial portfolio! React/Vite, SCSS and Json are the main technologies on this project! Also have other ones such as HTML, CSS and JavaScript(Obviously), Swiper JS, Reveal JS, fontAwesome, RectDOM, Router,Hooks, sonarLint and GitHub Pages! NPM and Git for version control! The main goal of this project is to show my skills, professional journey and Works (Professional and Personal)!",
+      "website": "https://lucasoriental.com",
       "gitHubRepo": "https://github.com/lucasoriental/lucasoriental",
-      "behanceRepo": ""
+      "behanceRepo": "https://www.behance.net/gallery/200574687/My-Professional-Portfolio"
     },
     {
       "id": "3",
