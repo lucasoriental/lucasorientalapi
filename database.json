@@ -11,6 +11,15 @@
     },
     {
       "id": 2,
+      "platform": "Fundação Bradesco",
+      "course": "Administrando Banco de Dados (DBA)",
+      "time": "15",
+      "credentialCode": "8424200A-457C-43B8-8CF5-E2656D845360",
+      "credentialLink": "https://www.ev.org.br/validar-certificado",
+      "img": "/images/courses/dbaCourse.webp"
+    },
+    {
+      "id": 3,
       "platform": "Udemy - Geek University",
       "course": "React Completo do básico ao avançado",
       "time": "7.5",
@@ -19,7 +28,7 @@
       "img": "/images/courses/react.webp"
     },
     {
-      "id": 3,
+      "id": 4,
       "platform": "Fundação Bradesco",
       "course": "HTML Avançado",
       "time": "6",
@@ -28,7 +37,7 @@
       "img": "/images/courses/htmlAdvanced.webp"
     },
     {
-      "id": 4,
+      "id": 5,
       "platform": "Udemy - Global Academy",
       "course": "SQL Programming Basics",
       "time": "1.5",
@@ -37,7 +46,7 @@
       "img": "/images/courses/sql.webp"
     },
     {
-      "id": 5,
+      "id": 6,
       "platform": "Fundação Bradesco",
       "course": "Introdução a Redes de Computadores",
       "time": "15",
@@ -46,7 +55,7 @@
       "img": "/images/courses/redesDeComputadores.webp"
     },
     {
-      "id": 6,
+      "id": 7,
       "platform": "Curso em Vídeo",
       "course": "JavaScript",
       "time": "40",
