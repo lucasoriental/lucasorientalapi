@@ -7,7 +7,7 @@
       "time": "23.5",
       "credentialCode": "UC-f5755607-604d-40dc-8b90-816bc5e2183a",
       "credentialLink": "https://www.udemy.com/certificate/UC-f5755607-604d-40dc-8b90-816bc5e2183a/",
-      "img": "/images/courses/js.webp"
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/courses/js.webp"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "time": "15",
       "credentialCode": "8424200A-457C-43B8-8CF5-E2656D845360",
       "credentialLink": "https://www.ev.org.br/validar-certificado",
-      "img": "/images/courses/dbaCourse.webp"
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/courses/dbaCourse.webp"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "time": "7.5",
       "credentialCode": "UC-1282fe00-eb1d-4cb5-9a96-717c73d3377d",
       "credentialLink": "https://www.udemy.com/certificate/UC-1282fe00-eb1d-4cb5-9a96-717c73d3377d/",
-      "img": "/images/courses/react.webp"
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/courses/react.webp"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "time": "6",
       "credentialCode": "C9457CAA-586C-4F79-AEA7-06E15D06380E",
       "credentialLink": "https://www.ev.org.br/validar-certificado",
-      "img": "/images/courses/htmlAdvanced.webp"
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/courses/htmlAdvanced.webp"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "time": "1.5",
       "credentialCode": "UC-82cdfd3b-37ec-46c1-a4a7-db1f1b9ca0c0",
       "credentialLink": "https://www.udemy.com/certificate/UC-82cdfd3b-37ec-46c1-a4a7-db1f1b9ca0c0/",
-      "img": "/images/courses/sql.webp"
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/courses/sql.webp"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "time": "15",
       "credentialCode": "795B2181-034F-4AEE-BCEA-128139C36A91",
       "credentialLink": "https://www.ev.org.br/validar-certificado",
-      "img": "/images/courses/redesDeComputadores.webp"
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/courses/redesDeComputadores.webp"
     },
     {
       "id": 7,
@@ -62,7 +62,7 @@
       "credentialURL": "https://www.cursoemvideo.com/validacao-de-certificado/?codigo=3A615-6C61-9",
       "credentialCode": "3A615-6C61-9",
       "credentialLink": "https://www.cursoemvideo.com/certificates/certificado/?course_id=27745&cert-nonce=6d7d9c9ca6",
-      "img": "/images/courses/jsCursoEmVideo.webp"
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/courses/jsCursoEmVideo.webp"
     }
   ],
   "certificatesDesign": [
@@ -73,7 +73,7 @@
       "time": "20.5",
       "credentialCode": "UC-e68e6e0a-3932-41cd-88a0-f9221bdb9be3",
       "credentialLink": "https://www.udemy.com/certificate/UC-e68e6e0a-3932-41cd-88a0-f9221bdb9be3/",
-      "img": "/images/courses/uxUi.webp"
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/courses/uxUi.webp"
     },
     {
       "id": 2,
@@ -82,13 +82,13 @@
       "time": "15",
       "credentialCode": "2A9525C7-299E-4A4D-8353-71E48FB76944",
       "credentialLink": "https://www.ev.org.br/validar-certificado",
-      "img": "/images/courses/designThinking.webp"
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/courses/designThinking.webp"
     }
   ],
   "college": [
     {
       "id": 1,
-      "img": "/images/courses/unicarioca.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/courses/unicarioca.webp",
       "universityName": "Centro Universitário Carioca",
       "courseTitle": "Bachelor's Computer Science",
       "time": "2020 - Dec/2024 (expected)",
@@ -100,63 +100,63 @@
       "id": 1,
       "title": "React",
       "level": 7,
-      "img": "/images/skills/it/react.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/react.webp",
       "professional": true
     },
     {
       "id": 2,
       "title": "JavaScript",
       "level": 6,
-      "img": "/images/skills/it/javascript.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/javascript.webp",
       "professional": true
     },
     {
       "id": 3,
       "title": "SQL",
       "level": 6,
-      "img": "/images/skills/it/sql.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/sql.webp",
       "professional": true
     },
     {
       "id": 4,
       "title": "HTML",
       "level": 8,
-      "img": "/images/skills/it/html.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/html.webp",
       "professional": true
     },
     {
       "id": 5,
       "title": "SASS (CSS)",
       "level": 6,
-      "img": "/images/skills/it/sass.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/sass.webp",
       "professional": true
     },
     {
       "id": 6,
       "title": "Carbon Design (IBM - React)",
       "level": 5,
-      "img": "/images/skills/it/carbonDesign.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/carbonDesign.webp",
       "professional": true
     },
     {
       "id": 7,
       "title": "Jest",
       "level": 5,
-      "img": "/images/skills/it/jest.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/jest.webp",
       "professional": true
     },
     {
       "id": 8,
       "title": "Node",
       "level": 4,
-      "img": "/images/skills/it/node.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/node.webp",
       "professional": true
     },
     {
       "id": 9,
       "title": "Selenium",
       "level": 3,
-      "img": "/images/skills/it/selenium.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/selenium.webp",
       "professional": true
     }
   ],
@@ -165,56 +165,56 @@
       "id": 1,
       "title": "Figma",
       "level": 9,
-      "img": "/images/skills/design/figma.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/figma.webp",
       "professional": false
     },
     {
       "id": 2,
       "title": "Adobe XD",
       "level": 7,
-      "img": "/images/skills/design/adobeXd.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/adobeXd.webp",
       "professional": false
     },
     {
       "id": 3,
       "title": "Photoshop",
       "level": 7,
-      "img": "/images/skills/design/photoshop.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/photoshop.webp",
       "professional": false
     },
     {
       "id": 4,
       "title": "Graphic Design",
       "level": 9,
-      "img": "/images/skills/design/graphic_designer.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/graphic_designer.webp",
       "professional": false
     },
     {
       "id": 5,
       "title": "UX/UI Design",
       "level": 9,
-      "img": "/images/skills/design/uxUiDesigner.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/uxUiDesigner.webp",
       "professional": false
     },
     {
       "id": 6,
       "title": "Icon Maker",
       "level": 6,
-      "img": "/images/skills/design/iconMaker.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/iconMaker.webp",
       "professional": false
     },
     {
       "id": 7,
       "title": "Video/Image Editor",
       "level": 9,
-      "img": "/images/skills/design/videoEditor.webp",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/videoEditor.webp",
       "professional": false
     }
   ],
   "jobExperiences": [
     {
       "id": 0,
-      "image": "/images/jobExperiences/freelancer_logo.png",
+      "image": "https://lucasoriental.github.io/lucasorientalapi/images/jobExperiences/freelancer_logo.png",
       "jobTitle": "Web Developer | UX/UI Designer | Graphic Designer",
       "companyName": "Freelancer *additional income*",
       "time": "2020 - Present",
@@ -222,7 +222,7 @@
     },
     {
       "id": 1,
-      "image": "/images/jobExperiences/ibm_logo.png",
+      "image": "https://lucasoriental.github.io/lucasorientalapi/images/jobExperiences/ibm_logo.png",
       "jobTitle": "Web Developer - Internship",
       "companyName": "IBM",
       "time": "2022 - 2024",
@@ -230,7 +230,7 @@
     },
     {
       "id": 2,
-      "image": "/images/jobExperiences/medgrupo_logo.png",
+      "image": "https://lucasoriental.github.io/lucasorientalapi/images/jobExperiences/medgrupo_logo.png",
       "jobTitle": "IT Support and Infraestructure - Young Apprentice",
       "companyName": "Medgrupo",
       "time": "2021 - 2022",
@@ -240,14 +240,14 @@
   "projects":[
     {
       "id": "0",
-      "img": "/images/myProjects/ruteMatos.png",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/myProjects/ruteMatos.png",
       "projectName": "Professional Portfolio (Psychologist)",
       "projectArea": "Web Development and Design UX/UI",
       "iconTechs": [
-        "images/technologies/sass_icon.png",
-        "images/technologies/photoshop_icon.png",
-        "images/technologies/react_icon.png",
-        "images/technologies/figma_icon.png"
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/sass_icon.png",
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/photoshop_icon.png",
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/react_icon.png",
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/figma_icon.png"
       ],
       "projectDescription": "<span class=\"span-title\">Project Overview</span>: <br/>This professional portfolio was created for psychologist Rute Isabel Matos to dynamically and clearly showcase her services, academic background, skills, and both past and current work. The website also includes an \"About Me\" page, a contact section, and a FAQ, providing visitors with a comprehensive and accessible view of the psychologist's career. The project was developed entirely using React/Vite, ensuring a responsive and engaging user experience. <br/><br/><span class=\"span-title\">Responsibilities</span>: <br/><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\">Full Stack Development:</span> Developed the entire portfolio using React and Vite, ensuring a modern and dynamic website; </li><li><span class=\"span-emphasis\">Hosting and Domain Management:</span> Purchased the domain and hosted the website through Hostinger, deploying it on GitHub Pages for stability and reliability; </li><li><span class=\"span-emphasis\">Styling and Responsiveness:</span> Utilized SCSS to create modern, maintainable, and responsive styles across all pages; </li><li><span class=\"span-emphasis\">Content Structure:</span> Created sections to display services, academic qualifications, skills, previous and current works, as well as \"About Me\", contact information, and a FAQ page; </li><li><span class=\"span-emphasis\">User Experience: </span> Designed an intuitive navigation and user experience that enhances accessibility and engagement; </li><li><span class=\"span-emphasis\">Deployment:</span> Deployed the website using GitHub Pages and set up a custom domain, including configuring DNS settings to ensure the site is accessible through a personalized web address. </li></ul><br/><span class=\"span-title\">Tools and Technologies Used</span>:<br/><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\"> Development and Deployment: </span>React, Vite, GitHub Pages, Hostinger; </li><li><span class=\"span-emphasis\">Design and Styling:</span> SCSS, Figma, SVGRepo, Pexels and Pixabay; </li><li><span class=\"span-emphasis\">User Experience and Content Management:</span> React Router for navigation, custom components for dynamic content presentation. </li></ul><br/><span class=\"span-title\">Main Purpose</span>:<br/>The primary goal of this portfolio is to highlight the services, qualifications, and expertise of Rute Isabel Matos, offering potential clients and collaborators an in-depth understanding of her professional capabilities and experience.<br/><br/><span class=\"span-title\">Outcome</span>:<br/> The portfolio successfully showcases the psychologist’s services and qualifications in a visually appealing and user-friendly manner, effectively enhancing her online presence and providing a reliable platform to connect with clients. The project demonstrates expertise in full-stack development, design, and deployment, utilizing a range of modern tools and technologies.",
       "website": "https://rutematos-psicologa.com/",
@@ -256,12 +256,12 @@
     },
     {
       "id": "1",
-      "img": "/images/myProjects/clinicaDoPaiao.png",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/myProjects/clinicaDoPaiao.png",
       "projectName": "Clínica do Paião",
       "projectArea": "Web Development and Design UX/UI",
       "iconTechs": [
-        "images/technologies/sass_icon.png",
-        "images/technologies/react_icon.png"
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/sass_icon.png",
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/react_icon.png"
       ],
       "projectDescription": "<span class=\"span-title\">Project Overview</span>: <br/>Clínica do Paião is a medical clinic located in Paião, Portugal, offering a range of medical services. This project involved building the entire website to provide an accessible and informative online presence for the clinic, enhancing its reach and patient engagement. <br/><br/><span class=\"span-title\">Responsibilities</span>: <br/><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\">Website Development:</span> Developed the entire website from scratch using React and Vite, focusing on creating a responsive and user-friendly interface. </li><li><span class=\"span-emphasis\">Styling:</span> Implemented styling using SCSS to ensure a clean and modern look that aligns with the clinic’s professional image. </li><li><span class=\"span-emphasis\">Component Development:</span> Created reusable and efficient React components for various parts of the website, such as service descriptions, contact information, and company details. </li><li><span class=\"span-emphasis\">Version Control:</span> Utilized Git for version control to manage and track changes throughout the development process. </li><li><span class=\"span-emphasis\">Project Management: </span> Used Scrum methodology to manage the project, ensuring timely delivery and iterative improvements. </li><li><span class=\"span-emphasis\">Deployment:</span> Deployed the website using GitHub Pages and set up a custom domain, including configuring DNS settings to ensure the site is accessible through a personalized web address. </li></ul><br/><span class=\"span-title\">Tools Used</span>:<br/><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\"> React and Vite: </span>Utilized for building the user interface and managing the development and build processes. </li><li><span class=\"span-emphasis\">SCSS:</span> Employed for styling to create a modern and professional look. </li><li><span class=\"span-emphasis\">Git:</span> Used for version control and collaborative development. </li><li><span class=\"span-emphasis\">Npm:</span> Managed project dependencies and scripts. </li><li><span class=\"span-emphasis\">GitHub Pages:</span> Used for deploying the website and managing hosting. </li><li><span class=\"span-emphasis\">DNS Configuration:</span> Set up and configured the custom domain to ensure seamless access to the website. </li></ul><br/><span class=\"span-title\">Outcome</span>:<br/> The website for Clínica do Paião provides a seamless and informative online experience for patients, displaying comprehensive information about services, contact details, and company background. This project showcases my skills in modern web development, my ability to create functional and visually appealing websites, proficiency in managing projects using Scrum, and expertise in deploying websites with custom domains.",
       "website": "https://clinicadopaiao.com/",
@@ -270,14 +270,14 @@
     },
     {
       "id": "2",
-      "img": "/images/myProjects/myPortfolio.png",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/myProjects/myPortfolio.png",
       "projectName": "My Professional Portfolio",
       "projectArea": "Web Development, Design UX/UI and Data Base",
       "iconTechs": [
-        "images/technologies/database_icon.png",
-        "images/technologies/figma_icon.png",
-        "images/technologies/react_icon.png",
-        "images/technologies/sass_icon.png"
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/database_icon.png",
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/figma_icon.png",
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/react_icon.png",
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/sass_icon.png"
       ],
       "projectDescription": "<span class=\"span-title\">Project Overview</span>: <br/>This professional portfolio serves as a dynamic showcase of my current and future works, skills, and journey as a web developer. Designed and developed entirely from scratch, the portfolio highlights my expertise in both front-end and back-end development, as well as my design capabilities. <br/><br/><span class=\"span-title\">Responsibilities</span>: <br/><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\"> Full Stack Development:</span> Developed the entire portfolio using React and Vite, ensuring a responsive and engaging user experience. </li><li><span class=\"span-emphasis\">Database and API:</span> Created a custom database using JSON and set up the API on GitHub Pages for dynamic content management. </li><li><span class=\"span-emphasis\">Design:</span> Crafted the complete design using Figma and Photoshop, including the layout, icons, and logo. Utilized SVGRepoFree for additional icons and created custom icons to enhance the visual appeal. </li><li><span class=\"span-emphasis\">Styling:</span> Implemented SCSS for modern and maintainable styling. </li><li><span class=\"span-emphasis\">Animations and Interactivity:</span> Integrated AOS (Animate on Scroll) JS and Swiper JS to add smooth animations and interactive elements. Used Tooltip React for enhanced user interaction. </li><li><span class=\"span-emphasis\">Code Quality:</span> Used SonarLint to review and improve the code quality, ensuring clean, maintainable, and efficient code. </li><li><span class=\"span-emphasis\">Version Control:</span> Utilized Git for version control to manage and track changes throughout the development process. </li><li><span class=\"span-emphasis\">Package Management:</span> Managed dependencies and project configuration using npm to ensure a smooth development workflow. </li><li><span class=\"span-emphasis\">Project Management:</span> Managed tasks, bugs, updates, and errors using Jira Story, adhering to the Scrum methodology for efficient project management. </li><li><span class=\"span-emphasis\">Deployment:</span> Deployed the portfolio using GitHub Pages and set up a custom domain, including configuring DNS settings for a personalized web address. </li></ul><br/><span class=\"span-title\">Tools and Technologies Used</span>: <br/><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\"> Development and Deployment:</span> React, Vite, JavaScript, GitHub Pages, JSON API. </li><li><span class=\"span-emphasis\">Design and Styling:</span> Figma, Photoshop, SCSS, SVGRepoFree, Custom Icons. </li><li><span class=\"span-emphasis\">Interactivity and Animations:</span> AOS JS, Swiper JS, Tooltip React. </li><li><span class=\"span-emphasis\">Code Quality and Management:</span> SonarLint, Git, npm, Jira, Scrum. </li></ul><br/><span class=\"span-title\">Main Purpose</span>:<br/>The primary goal of this portfolio is to showcase my skills, current projects, and future works as a web developer and UX/UI Designer. It provides potential clients and collaborators with a comprehensive view of my professional capabilities and serves as a testament to my expertise.<br/><br/><span class=\"span-title\">Outcome:</span><br/> The professional portfolio effectively demonstrates my full stack development and design skills, featuring a dynamic, responsive, and visually appealing website. This project highlights my ability to manage a project end-to-end, from initial design through to deployment and maintenance, using a wide range of tools and technologies. It also serves as an ongoing platform to display my current and future works, solidifying my presence as a proficient web developer.",
       "website": "https://lucasoriental.com",
@@ -286,12 +286,12 @@
     },
     {
       "id": "3",
-      "img": "/images/myProjects/wantEat.png",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/myProjects/wantEat.png",
       "projectName": "Want Eat?",
       "projectArea": "Design UX/UI",
       "iconTechs": [
-        "images/technologies/adobeXd_icon.png",
-        "images/technologies/photoshop_icon.png"
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/adobeXd_icon.png",
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/photoshop_icon.png"
       ],
       "projectDescription": "<span class=\"span-title\">Project Overview:</span><br/> WantEat is a fictional app designed to provide users with convenient services for ordering food and other related services. This project focused on creating a seamless and engaging user experience through meticulous UX/UI design. <br/><br/><span class=\"span-title\">Responsibilities</span>: <br/><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\">UX/UI Design:</span> Designed the entire app interface to ensure an intuitive and user-friendly experience.</li><li><span class=\"span-emphasis\">Prototyping:</span> Used Adobe XD to create interactive prototypes, demonstrating user flows and functionality. </li><li><span class=\"span-emphasis\">Design Elements:</span> Developed various design elements using Photoshop, including icons, graphics, and other visual components to enhance the app's aesthetics. </li><li><span class=\"span-emphasis\"> User Experience:</span> Conducted user research and created wireframes to ensure the design meets user needs and expectations. </li><li><span class=\"span-emphasis\">User Interface:</span> Crafted visually appealing layouts and interactive elements to provide a cohesive and engaging user experience.</li></ul><br/><span class=\"span-title\">Tools and Technologies Used</span>: <br/><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\">Design and Prototyping:</span> Adobe XD.</li><li><span class=\"span-emphasis\">Graphic Design:</span> Photoshop. </li><li><span class=\"span-emphasis\"> Design Elements:</span> Custom icons, graphics.</li></ul><br/><span class=\"span-title\">Outcome:</span><br/> The WantEat app showcases my skills in UX/UI design, featuring an intuitive and visually appealing interface. This project highlights my ability to create functional and attractive designs that enhance the user experience. Through the use of Adobe XD and Photoshop, I was able to develop a comprehensive and engaging design for a fictional food ordering service.",
       "website": "",
@@ -300,12 +300,12 @@
     },
     {
       "id": "4",
-      "img": "/images/myProjects/laChicaStore.png",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/myProjects/laChicaStore.png",
       "projectName": "La Chica Store",
       "projectArea": "Design UX/UI",
       "iconTechs": [
-        "images/technologies/adobeXd_icon.png",
-        "images/technologies/photoshop_icon.png"
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/adobeXd_icon.png",
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/photoshop_icon.png"
       ],
       "projectDescription": "<span class=\"span-title\">Project Overview</span>: <br/>La Chica Store is a fictional online fashion retail platform crea as a training project to hone my design skills. The goal was develop an engaging and visually appealing home page that provide seamless shopping experience. <br/><br/><span class=\"span-title\">Responsibilities</span>: <br/><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\">Logo Design:</span> Designed a unique and memorable logo that reflects tthe brand’s identity and appeals to fashion enthusiasts.</li><li><span class=\"span-emphasis\">Layout Design:</span> Developed a modern, clean, and responsive layout fthe homepage, ensuring an intuitive and enjoyable user experienacross all devices.</li><li><span class=\"span-emphasis\">Component Creation:</span> Designed various UI components such navigation menus,product showcases, and call-to-action buttons create a cohesive andintuitive interface.</li><li><span class=\"span-emphasis\">Visual Design:</span> Utilized Adobe XD and Photoshop to craft visual compelling graphics and elements that align with the brandaesthetic and enhance the overall user experience.</li></ul><br/><span class=\"span-title\">Tools Used</span>:<br/><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\">Adobe XD:</span> Used for wireframing, prototyping, and creatinteractive design elements.</li><li><span class=\"span-emphasis\">Photoshop:</span> Employed for detailed graphic design work, including creation and image editing.</li></ul><br/><span class=\"span-title\">Outcome</span>:<br/>The fictional home page of La Chica Store effectively combines functionality with a stylish design, resulting in an engaging user-friendly prototype that showcases my design capabilities creativity.",
       "website": "",
@@ -314,12 +314,12 @@
     },
     {
       "id": "5",
-      "img": "/images/myProjects/appChat.png",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/myProjects/appChat.png",
       "projectName": "App Chat",
       "projectArea": "Design UX/UI",
       "iconTechs": [
-        "images/technologies/adobeXd_icon.png",
-        "images/technologies/photoshop_icon.png"
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/adobeXd_icon.png",
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/photoshop_icon.png"
       ],
       "projectDescription": "<span class=\"span-title\">Project Overview:</span>: <br/> AppChat is a fictional app designed to facilitate communication between users, similar to popular messaging apps like WhatsApp and Messenger. The project focused on creating an engaging and user-friendly design to ensure seamless interactions. <br/><br/><span class=\"span-title\">Responsibilities</span>: <br/><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\">UX/UI Design:</span> Designed the entire app interface to ensure an intuitive and user-friendly experience.</li><li><span class=\"span-emphasis\">Prototyping:</span> Used Adobe XD to create interactive prototypes, demonstrating user flows and functionality.</li><li><span class=\"span-emphasis\">Design Elements:</span> Developed various design elements using Photoshop, including icons, graphics, and other visual components to enhance the app's aesthetics.</li><li><span class=\"span-emphasis\">User Experience:</span> Conducted user research and created wireframes to ensure the design meets user needs and expectations.</li><li><span class=\"span-emphasis\">User Interface:</span> Crafted visually appealing layouts and interactive elements to provide a cohesive and engaging user experience.</li></ul><br/><span class=\"span-title\">Tools and Technologies Used</span>:<br/><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\">Design and Prototyping:</span> Adobe XD. </li><li><span class=\"span-emphasis\">Graphic Design:</span> Photoshop. </li><li><span class=\"span-emphasis\">Design Elements:</span> Custom icons, graphics.</li></ul><br/><span class=\"span-title\">Outcome:</span><br/> The AppChat app showcases my skills in UX/UI design, featuring an intuitive and visually appealing interface. This project highlights my ability to create functional and attractive designs that enhance the user experience. Through the use of Adobe XD and Photoshop, I was able to develop a comprehensive and engaging design for a fictional messaging service.",
       "website": "",
@@ -328,12 +328,12 @@
     },
     {
       "id": "6",
-      "img": "/images/myProjects/appMusicML.png",
+      "img": "https://lucasoriental.github.io/lucasorientalapi/images/myProjects/appMusicML.png",
       "projectName": "App Music (ML)",
       "projectArea": "Design UX/UI",
       "iconTechs": [
-        "images/technologies/adobeXd_icon.png",
-        "images/technologies/photoshop_icon.png"
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/adobeXd_icon.png",
+        "https://lucasoriental.github.io/lucasorientalapi/images/technologies/photoshop_icon.png"
       ],
       "projectDescription": "<span class=\"span-title\">Project Overview:</span> <br/> App Music (ML) is a fictional music streaming application designed to enhance user interaction with navigable and intuitive layout. This project served as a platform to practice and refine my design skills, focusing on creating an engaging and seamless user experience. <br/><br/><span class=\"span-title\">Responsibilities:</span><br/><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\">Logo Design:</span> Created a distinctive and modern logo that captures the essence of the music stream service and resonates with the target audience.</li><li><span class=\"span-emphasis\">Layout Design:</span> Developed a navigable and user-friendly layout, ensuring that users can easily browse discover music. The design emphasizes smooth navigation and accessibility.</li><li><span class=\"span-emphasis\">Component Creation:</span> Designed various UI components including menus, playlists, music player controls, search functions to ensure a cohesive and intuitive interface.</li><li><span class=\"span-emphasis\">Visual Design:</span> Leveraged Adobe XD and Photoshop to produce visually appealing graphics and design elemethat align with the app's modern and vibrant aesthetic.</li></ul><br/><span class=\"span-title\">Tools Used:</span><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\">Adobe XD:</span> Utilized for wireframing, prototyping, and creating interactive design elements.</li><li><span class=\"span-emphasis\">Photoshop:</span> Used for detailed graphic design work, including logo creation and image editing.</li></ul><br/><span class=\"span-title\">Outcome:</span><br/>The fictional App Music (ML) features a navigable and visually engaging layout that provides users witseamless music discovery and listening experience. This project demonstrates my ability to desigfunctional and aesthetically pleasing user interface for a music application.",
       "website": "",
