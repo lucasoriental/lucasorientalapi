@@ -213,6 +213,14 @@
   ],
   "jobExperiences": [
     {
+      "id": 0,
+      "image": "/images/jobExperiences/freelancer_logo.png",
+      "jobTitle": "Web Developer | UX/UI Designer | Graphic Designer",
+      "companyName": "Freelancer *additional income*",
+      "time": "2020 - Present",
+      "responsibilities": "<ul class=\"list-json-experience\"><li>Development of <span>customized websites</span> using <span>React and Vite</span>, with deployments on platforms like <span>GitHub Pages, Hostinger, among others</span>;</li><li>Engagement in <span>extra</span> freelance work, offering <span>design and development solutions</span>;</li><li>Creation of UX/UI interfaces focusing on <span>usability</span> and <span>user experience</span>, using <span>Figma</span> for prototyping and developing <span>interactive wireframes</span>;</li><li> Diverse graphic work, including <span>flyers, logos, resumes, brochures, banners, social media posts, stories, and reels</span>;</li><li>Commitment to <span>legal security</span>, using only copyright-free resources to ensure the <span>integrity of each project</span>;</li><li>Execution of projects based on <span>personalized briefs</span>, ensuring that solutions meet the client's needs and <span>expectations</span>.</li>"
+    },
+    {
       "id": 1,
       "image": "/images/jobExperiences/ibm_logo.png",
       "jobTitle": "Web Developer - Internship",
@@ -227,17 +235,25 @@
       "companyName": "Medgrupo",
       "time": "2021 - 2022",
       "responsibilities": "<ul class=\"list-json-experience\"><li>I worked on the Employee Support resolving issues related to <span>access and maintenance of IT equipment</span> at Medgrupo;</li><li>I Carried out VPN configuration for <span>Windows, Linux, and Apple</span> environments;</li><li>I Resolved issues through <span >remote access and configured employee access to the cloud</span>;</li><li>I Worked on resetting and configuring users in systems like <span>Active Directory and Google Admin</span>;</li><li>I used <span>Zabbix</span> for monitoring, addressing issues such as the status of equipment and systems;</li><li>This experience enhanced my <span >analytical skills and adaptability</span>."
-    },
-    {
-      "id": 3,
-      "image": "/images/jobExperiences/freelancer_logo.png",
-      "jobTitle": "Graphic and WEB Designer & Audiovisual Editor",
-      "companyName": "Freelancer",
-      "time": "2018 - 2022",
-      "responsibilities": "<ul class=\"list-json-experience\"><li>As a freelancer, I offered a <span>full range of services in design and audiovisual</span> production;</li><li>I actively participated in <span>UX/UI Design, providing visual services for websites and developing landing pages</span>;</li><li>I made <span>logos, resumes, brochures, banners, and other design elements</span>;</li><li> I expanded my expertise to <span>video and audio editing</span>, distinguishing myself in the creation of attractive <span>vignettes for YouTubers and online</span> influencers;</li><li>I produced <span>Reels, posts, and banners</span> adapted for various social media platforms, with a focus on <span>Instagram</span>."
     }
   ],
   "projects":[
+    {
+      "id": "0",
+      "img": "/images/myProjects/ruteMatos.png",
+      "projectName": "Professional Portfolio (Psychologist)",
+      "projectArea": "Web Development and Design UX/UI",
+      "iconTechs": [
+        "images/technologies/sass_icon.png",
+        "images/technologies/photoshop_icon.png",
+        "images/technologies/react_icon.png",
+        "images/technologies/figma_icon.png"
+      ],
+      "projectDescription": "<span class=\"span-title\">Project Overview</span>: <br/>This professional portfolio was created for psychologist Rute Isabel Matos to dynamically and clearly showcase her services, academic background, skills, and both past and current work. The website also includes an \"About Me\" page, a contact section, and a FAQ, providing visitors with a comprehensive and accessible view of the psychologist's career. The project was developed entirely using React/Vite, ensuring a responsive and engaging user experience. <br/><br/><span class=\"span-title\">Responsibilities</span>: <br/><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\">Full Stack Development:</span> Developed the entire portfolio using React and Vite, ensuring a modern and dynamic website; </li><li><span class=\"span-emphasis\">Hosting and Domain Management:</span> Purchased the domain and hosted the website through Hostinger, deploying it on GitHub Pages for stability and reliability; </li><li><span class=\"span-emphasis\">Styling and Responsiveness:</span> Utilized SCSS to create modern, maintainable, and responsive styles across all pages; </li><li><span class=\"span-emphasis\">Content Structure:</span> Created sections to display services, academic qualifications, skills, previous and current works, as well as \"About Me\", contact information, and a FAQ page; </li><li><span class=\"span-emphasis\">User Experience: </span> Designed an intuitive navigation and user experience that enhances accessibility and engagement; </li><li><span class=\"span-emphasis\">Deployment:</span> Deployed the website using GitHub Pages and set up a custom domain, including configuring DNS settings to ensure the site is accessible through a personalized web address. </li></ul><br/><span class=\"span-title\">Tools and Technologies Used</span>:<br/><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\"> Development and Deployment: </span>React, Vite, GitHub Pages, Hostinger; </li><li><span class=\"span-emphasis\">Design and Styling:</span> SCSS, Figma, SVGRepo, Pexels and Pixabay; </li><li><span class=\"span-emphasis\">User Experience and Content Management:</span> React Router for navigation, custom components for dynamic content presentation. </li></ul><br/><span class=\"span-title\">Main Purpose</span>:<br/>The primary goal of this portfolio is to highlight the services, qualifications, and expertise of Rute Isabel Matos, offering potential clients and collaborators an in-depth understanding of her professional capabilities and experience.<br/><br/><span class=\"span-title\">Outcome</span>:<br/> The portfolio successfully showcases the psychologist’s services and qualifications in a visually appealing and user-friendly manner, effectively enhancing her online presence and providing a reliable platform to connect with clients. The project demonstrates expertise in full-stack development, design, and deployment, utilizing a range of modern tools and technologies.",
+      "website": "https://rutematos-psicologa.com/",
+      "gitHubRepo": "https://github.com/lucasoriental/ruteIMatosPsicologia",
+      "behanceRepo": "https://www.behance.net/gallery/206594453/Professional-Portfolio-of-Psychologist"
+    },
     {
       "id": "1",
       "img": "/images/myProjects/clinicaDoPaiao.png",
