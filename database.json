@@ -116,21 +116,21 @@
         "title": "Python",
         "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/python.webp",
-        "professional": true
+        "professional": false
       },
       {
         "id": 4,
         "title": "TypeScript",
         "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/typescript.webp",
-        "professional": true
+        "professional": false
       },
       {
         "id": 5,
         "title": "MongoDb",
         "level": 6,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/mongodb.webp",
-        "professional": true
+        "professional": false
       },
       {
         "id": 6,
@@ -478,21 +478,21 @@
         "title": "Python",
         "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/python.webp",
-        "professional": true
+        "professional": false
       },
       {
         "id": 4,
         "title": "TypeScript",
         "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/typescript.webp",
-        "professional": true
+        "professional": false
       },
       {
         "id": 5,
         "title": "MongoDb",
         "level": 6,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/mongodb.webp",
-        "professional": true
+        "professional": false
       },
       {
         "id": 6,
@@ -534,7 +534,7 @@
         "title": "Node Js",
         "level": 4,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/node.webp",
-        "professional": true
+        "professional": false
       }
     ],
     "skillsDesign": [
