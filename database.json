@@ -549,6 +549,20 @@
         "level": 4,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/node.webp",
         "professional": false
+      },
+      {
+        "id": 12,
+        "title": "Bootstrap",
+        "level": 5,
+        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/bootstrap.webp",
+        "professional": false
+      },
+      {
+        "id": 13,
+        "title": "TailWind",
+        "level": 5,
+        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/tailwind.webp",
+        "professional": false
       }
     ],
     "skillsDesign": [
