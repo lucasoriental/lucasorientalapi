@@ -60,9 +60,8 @@
         "platform": "Curso em Vídeo",
         "course": "JavaScript",
         "time": "40",
-        "credentialURL": "https://www.cursoemvideo.com/validacao-de-certificado/?codigo=3A615-6C61-9",
         "credentialCode": "3A615-6C61-9",
-        "credentialLink": "https://www.cursoemvideo.com/certificates/certificado/?course_id=27745&cert-nonce=6d7d9c9ca6",
+        "credentialLink": "https://www.cursoemvideo.com/validacao-de-certificado/?codigo=3A615-6C61-9",
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/courses/jsCursoEmVideo.webp"
       }
     ],
@@ -436,9 +435,8 @@
         "platform": "Curso em Vídeo",
         "course": "JavaScript",
         "time": "40",
-        "credentialURL": "https://www.cursoemvideo.com/validacao-de-certificado/?codigo=3A615-6C61-9",
         "credentialCode": "3A615-6C61-9",
-        "credentialLink": "https://www.cursoemvideo.com/certificates/certificado/?course_id=27745&cert-nonce=6d7d9c9ca6",
+        "credentialLink": "https://www.cursoemvideo.com/validacao-de-certificado/?codigo=3A615-6C61-9",
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/courses/jsCursoEmVideo.webp"
       }
     ],
