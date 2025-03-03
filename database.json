@@ -99,91 +99,78 @@
       {
         "id": 1,
         "title": "React",
-        "level": 7,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/react.webp",
         "professional": true
       },
       {
         "id": 2,
         "title": "JavaScript",
-        "level": 7,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/javascript.webp",
         "professional": true
       },
       {
         "id": 3,
         "title": "Python",
-        "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/python.webp",
         "professional": false
       },
       {
         "id": 4,
         "title": "TypeScript",
-        "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/typescript.webp",
         "professional": false
       },
       {
         "id": 5,
         "title": "MongoDb",
-        "level": 6,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/mongodb.webp",
         "professional": false
       },
       {
         "id": 6,
         "title": "MySQL",
-        "level": 6,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/sql.webp",
         "professional": true
       },
       {
         "id": 7,
         "title": "HTML:5",
-        "level": 8,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/html.webp",
         "professional": true
       },
       {
         "id": 8,
         "title": "SASS/SCSS",
-        "level": 6,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/sass.webp",
         "professional": true
       },
       {
         "id": 9,
         "title": "Carbon Design",
-        "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/carbonDesign.webp",
         "professional": true
       },
       {
         "id": 10,
         "title": "Jest Js",
-        "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/jest.webp",
         "professional": true
       },
       {
         "id": 11,
         "title": "Node Js",
-        "level": 4,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/node.webp",
         "professional": true
       },
       {
         "id": 12,
         "title": "Bootstrap",
-        "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/bootstrap.webp",
         "professional": false
       },
       {
         "id": 13,
         "title": "TailWind",
-        "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/tailwind.webp",
         "professional": false
       }
@@ -192,49 +179,42 @@
       {
         "id": 1,
         "title": "Figma",
-        "level": 9,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/figma.webp",
         "professional": false
       },
       {
         "id": 2,
         "title": "Adobe XD",
-        "level": 7,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/adobeXd.webp",
         "professional": false
       },
       {
         "id": 3,
         "title": "Photoshop",
-        "level": 7,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/photoshop.webp",
         "professional": false
       },
       {
         "id": 4,
         "title": "Graphic Design",
-        "level": 9,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/graphic_designer.webp",
         "professional": false
       },
       {
         "id": 5,
         "title": "UX/UI Design",
-        "level": 9,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/uxUiDesigner.webp",
         "professional": false
       },
       {
         "id": 6,
         "title": "Icon Maker",
-        "level": 6,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/iconMaker.webp",
         "professional": false
       },
       {
         "id": 7,
         "title": "Video/Image Editor",
-        "level": 9,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/videoEditor.webp",
         "professional": false
       }
@@ -243,21 +223,19 @@
       {
         "id": 0,
         "image": "https://lucasoriental.github.io/lucasorientalapi/images/jobExperiences/freelancer_logo.png",
-        "jobTitle": "Web Developer | UX/UI Designer | Graphic Designer",
+        "jobTitle": "Full-Stack Developer & Designer" ,
         "companyName": "Freelancer <strong>(additional income)</strong>",
-        "time": "2024 - Present",
-        "responsibilities": "<ul class=\"list-json-experience\"><li>As a web developer, I dedicate myself to creating responsive websites in React, working on both the front-end and back-end to provide fast and intuitive experiences. Portfolios, landing pages, web apps, corporate websites, event and reservation pages, e-commerce platforms, and others are examples of projects I work on, always focusing on performance and adaptability;</li><li>As a UX/UI designer, I create interfaces for websites, applications, and systems, focusing on functional design and usability, ensuring intuitive and aesthetically pleasing solutions for users;</li><li>As a graphic designer, I produce graphic materials such as flyers, brochures, resumes, and logos, helping businesses and professionals convey a strong and professional image;</li><li>I create visual identities for YouTube channels, including banners, logos, and thumbnails, to promote an attractive visual and increase audience engagement for the channels;</li><li>I create visual content for social media, such as Instagram (posts, stories, & reels), aiming to increase client visibility and engagement.</li></ul>"
-
+        "time": "03/2024 - Present",
+        "responsibilities": "<ul class=\"list-json-experience\"><li><strong>Full-Stack Development</strong>: I work on the design and development of websites, mobile applications, and e-commerce platforms, including features such as user authentication, shopping carts, product management systems, among others;</li><li><strong>UX/UI Design</strong>: I prioritize creating intuitive and responsive interfaces for digital products, from wireframes to prototypes. I also conduct usability testing to provide optimized experiences that meet both business needs and user expectations;</li><li><strong>Graphic Design</strong>: I develop visual identities, including business cards, flyers, brochures, and more. I create advertising content aligned with brand identity to strengthen market presence;</li><li><strong>Social Media Management</strong>: I also create and manage content for platforms such as Instagram, TikTok, and YouTube, including posts, stories, and videos. My focus is on strengthening digital presence and increasing audience engagement through targeted campaigns.</li></ul>"  
       },
       {
         "id": 1,
         "image": "https://lucasoriental.github.io/lucasorientalapi/images/jobExperiences/ibm_logo.png",
-        "jobTitle": "Web Developer - Internship",
-        "companyName": "IBM",
-        "time": "2022 - 2024",
-        "responsibilities": "<ul class=\"list-json-experience\"><li>Actively participated in migrating the 'System Admin' system (in RPGLE) to the web using React, contributing to the improvement of the company's payment systems (GAPTS and MISC);</li><li>Through the Scrum methodology, I participated in daily meetings (Daily Calls) to organize tasks (ongoing and upcoming), which significantly improved my English communication and teamwork (international);</li><li>Contributed to improving back-end request performance by analyzing the CloudIBM and Cirrus platforms;</li><li>Worked on analyzing and fixing vulnerabilities related to Cookies, CORS, and PseudoRandom Number using SonarQube;</li><li>Used React (Hooks, Redux, NextJS, Router, Axios, Context) & Carbon Design as the main development tools;</li><li>Built unit tests using Jest and automated tests with Selenium;</li><li>Worked on analyzing and approving Pull Requests (GitHub) in DEV, UAT, and PROD environments;</li><li>Prepared test reports and results in .docx, .pdf, and .xls formats for presentation during meetings;</li><li>Received positive feedback via the IBM Recognition platform from supervisors and team members due to my effort, dedication, and commitment to the work.</li></ul>"
-
-      },
+        "jobTitle": "Full-Stack Developer",
+        "companyName": "International Business Machines - IBM Brasil",
+        "time": "03/2022 - 03/2024",
+         "responsibilities": "<ul class=\"list-json-experience\"><li><strong>Front-End Development</strong>: I worked on building and maintaining interfaces using React JS, JavaScript, HTML, and CSS, improving usability and accessibility through collaboration with cross-functional teams;</li><li><strong>Back-End Development</strong>: I managed database connections and optimized SQL queries for CRUD operations using Node.js (Express) and IBM DB2, enhancing system efficiency and responsiveness;</li><li><strong>Unit Testing</strong>: I developed unit tests with Jest.js, achieving a minimum coverage of 95%, which increased code stability and reduced postrelease errors;</li><li><strong>System Migration and Optimization</strong>: I actively contributed to the migration of a financial system that previously used RPGLE Modules to a web application based on React/Node.js, resulting in a more efficient and scalable system;</li><li><strong>Security and Code Quality</strong>: I addressed security vulnerabilities (e.g., Cookies, CORS) using SonarQube and reviewed PRs on GitHub to ensure high coding standards;</li><li><strong>Reports and Communication</strong>: After each new implementation, I created detailed reports, enabling analysis and discussion of results between Development and Testing teams;</li><li><strong>Recognition</strong>: I was consistently praised for my teamwork, dedication, and ability to deliver high-quality results within established deadlines.</li></ul>"
+        },
       {
         "id": 2,
         "image": "https://lucasoriental.github.io/lucasorientalapi/images/jobExperiences/medgrupo_logo.png",
@@ -372,7 +350,7 @@
         "behanceRepo": "https://www.behance.net/gallery/109813189/App-Music-(ML)-UI-Design"
       }
     ],
-    "aboutMe": "Hello! This is Lucas Oriental dos Santos, a Full Stack Developer with three years of experience specializing in React.js, Node.js, and database management. My professional journey has allowed me to work on a variety of projects, including dynamic web platforms, enterprise applications, and digital solutions focused on Performance, scalability, and accessibility. I am passionate about using cutting-edge web technologies to create impactful user experiences and continuously strive to learn new skills to enhance my technical expertise. <br><br> During my time at IBM, I had the opportunity to contribute to high-quality front-end and back-end development, primarily within financial systems. My work included developing user interfaces with React, optimizing back-end processes with Node.js, and ensuring data security and reliability. I gained hands-on experience managing sensitive data, improving system performance, and migrating legacy systems to modern web applications. I also helped optimize code quality by implementing rigorous unit tests and addressing security vulnerabilities, ensuring stability and security throughout the development process. <br><br> In addition to my full-stack expertise, I have a solid background in UX/UI Design, having created intuitive, user-friendly interfaces for a variety of digital products. I am dedicated to bridging the gap between user needs and business goals through design, from wireframes and prototypes to the final user interface. <br><br> Currently working as a freelancer, I continue to develop dynamic, user-centered websites and mobile applications while managing social media content and graphic design projects. My focus is on helping clients build strong digital presences with tailored solutions that reflect their unique brand and vision.<br><br> I’m an organized, proactive, and dedicated professional, always striving to grow and refine my skills. Whether collaborating on complex systems or exploring new technologies, I am eager to contribute to innovative projects that push the boundaries of what’s possible.<br><br> If you're looking for a passionate and versatile Full Stack Developer with a good foundation in both front-end and back-end development, as well as a keen eye for design, feel free to get in touch. I'd love to explore how I can contribute to your team or project!"
+    "aboutMe": "Hello! My name is Lucas Oriental dos Santos, and I am a <strong>Full Stack Developer</strong> with three years of experience in <strong>React.js, Node.js</strong>, and <strong>database management</strong>. My academic background includes a <strong>Bachelor's Degree</strong> in <strong>Computer Science</strong>, complemented by <strong>specialized courses</strong> in <strong>UX/UI Design, React, JavaScript</strong>, and <strong>database management</strong>. This combination of technical and theoretical knowledge allows me to create complete solutions that merge development and design to generate <strong>impactful</strong> and <strong>efficient</strong> experiences. <br><br> Throughout my professional journey, I have had the opportunity to work on the development of dynamic web applications and digital projects focused on <strong>high performance, scalability</strong>, and <strong>accessibility</strong>. I am passionate about <strong>cutting-edge web technologies</strong> and am always looking for new skills to enhance my technical experience. <br><br> During my time at IBM, I had the opportunity to contribute to the <strong>front-end</strong> and <strong>back-end</strong> development of high-quality systems, mainly in <strong>financial systems (GAPTS, MISC & GCMS)</strong>. My work involved creating user interfaces with <strong>React</strong>, optimizing back-end processes with <strong>Node.js</strong>, and ensuring data security and reliability. I gained hands-on experience in managing <strong>sensitive</strong> data, improving <strong>system performance</strong>, and migrating <strong>legacy systems</strong> to <strong>modern web applications</strong>. I also helped optimize <strong>code quality</strong> by implementing <strong>unit tests</strong> and addressing <strong>security vulnerabilities</strong>, ensuring <strong>stability and security</strong> throughout the development process. <br><br> In addition to my full-stack experience, I have a solid foundation in <strong>UX/UI Design</strong>, having created intuitive and accessible interfaces for various digital products. My focus is on linking user needs with business objectives through design, from <strong>wireframes</strong> and <strong>prototypes</strong> to the <strong>final interface</strong>. <br><br> Currently, I work as a freelancer, developing dynamic, user-centered websites and mobile applications. My goal is to help clients build strong digital presences with tailored solutions that reflect their unique identity and vision. <br><br> I am an <strong>organized, proactive, and dedicated</strong> professional, always looking to grow and refine my skills. Whether collaborating on complex systems or exploring new technologies, I am ready to contribute to innovative projects that push the boundaries of what’s possible. <br><br> If you are looking for a <strong>passionate</strong> and <strong>versatile</strong> Full Stack Developer, with a strong foundation in both <strong>front-end</strong> and <strong>back-end</strong>, as well as an eye for <strong>design</strong>, feel free to get in touch. I would be happy to discuss how I can contribute to your project!"
   },
   "pt": {
     "certificatesIT": [
@@ -480,84 +458,72 @@
       {
         "id": 2,
         "title": "JavaScript",
-        "level": 7,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/javascript.webp",
         "professional": true
       },
       {
         "id": 3,
         "title": "Python",
-        "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/python.webp",
         "professional": false
       },
       {
         "id": 4,
         "title": "TypeScript",
-        "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/typescript.webp",
         "professional": false
       },
       {
         "id": 5,
         "title": "MongoDb",
-        "level": 6,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/mongodb.webp",
         "professional": false
       },
       {
         "id": 6,
         "title": "MySQL",
-        "level": 6,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/sql.webp",
         "professional": true
       },
       {
         "id": 7,
         "title": "HTML:5",
-        "level": 8,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/html.webp",
         "professional": true
       },
       {
         "id": 8,
         "title": "SASS/SCSS",
-        "level": 6,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/sass.webp",
         "professional": true
       },
       {
         "id": 9,
         "title": "Carbon Design",
-        "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/carbonDesign.webp",
         "professional": true
       },
       {
         "id": 10,
         "title": "Jest Js",
-        "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/jest.webp",
         "professional": true
       },
       {
         "id": 11,
         "title": "Node Js",
-        "level": 4,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/node.webp",
         "professional": false
       },
       {
         "id": 12,
         "title": "Bootstrap",
-        "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/bootstrap.webp",
         "professional": false
       },
       {
         "id": 13,
         "title": "TailWind",
-        "level": 5,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/tailwind.webp",
         "professional": false
       }
@@ -566,49 +532,42 @@
       {
         "id": 1,
         "title": "Figma",
-        "level": 9,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/figma.webp",
         "professional": false
       },
       {
         "id": 2,
         "title": "Adobe XD",
-        "level": 7,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/adobeXd.webp",
         "professional": false
       },
       {
         "id": 3,
         "title": "Photoshop",
-        "level": 7,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/photoshop.webp",
         "professional": false
       },
       {
         "id": 4,
         "title": "Graphic Design",
-        "level": 9,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/graphic_designer.webp",
         "professional": false
       },
       {
         "id": 5,
         "title": "UX/UI Design",
-        "level": 9,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/uxUiDesigner.webp",
         "professional": false
       },
       {
         "id": 6,
         "title": "Icon Maker",
-        "level": 6,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/iconMaker.webp",
         "professional": false
       },
       {
         "id": 7,
         "title": "Video/Image Editor",
-        "level": 9,
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/videoEditor.webp",
         "professional": false
       }
@@ -617,18 +576,20 @@
       {
         "id": 0,
         "image": "https://lucasoriental.github.io/lucasorientalapi/images/jobExperiences/freelancer_logo.png",
-        "jobTitle": "Desenvolvedor Web | Designer UX/UI | Designer Gráfico",
+        "jobTitle": "Desenvolvedor Full-Stack & Designer",
         "companyName": "Freelancer <strong>(renda extra)</strong>",
-        "time": "2024 - Presente",
-        "responsibilities": "<ul class=\"list-json-experience\"><li>Como desenvolvedor web, dedico-me à criação de sites responsivos em React, atuando tanto no front-end quanto no back-end, para proporcionar experiências rápidas e intuitivas. Portfólios, landing pages, web apps, sites corporativos, páginas de eventos e reservas, e-commerces, entre outros, são exemplos de projetos em que trabalho, focando sempre em performance e adaptabilidade;</li><li>Como designer UX/UI, atuo na criação de interfaces para websites, aplicativos e sistemas, com foco no design funcional e na usabilidade, garantindo soluções intuitivas e esteticamente atraentes para os utilizadores;</li><li>Como designer gráfico, produzo materiais gráficos como flyers, folders, currículos e logotipos, auxiliando empresas e profissionais a transmitirem uma imagem forte e profissional;</li><li>Realizo a criação de identidades visuais para canais do YouTube, incluindo banners, logotipos e thumbnails, com o objetivo de promover um visual atrativo e gerar maior audiência para os canais;</li><li>Elaboro conteúdos visuais para redes sociais, como Instagram (postagens, Stories e Reels), com o objetivo de aumentar a visibilidade e o engajamento dos clientes.</li></ul>"
-      },
-      {
+        "time": "03/2024 - Presente",
+         "responsibilities": "<ul class=\"list-json-experience\"><li><strong>Desenvolvimento Full-Stack</strong>: Atuo na conceção e desenvolvimento de websites, aplicações móveis e plataformas de e-commerce, incluindo funcionalidades como autenticação de utilizadores, carrinhos de compras, sistemas de gestão de produtos, entre outras;</li><li><strong>Design UX/UI</strong>: Priorizo a criação de interfaces intuitivas e responsivas para produtos digitais, desde wireframes até protótipos. Realizo também testes de usabilidade para proporcionar experiências otimizadas que satisfaçam tanto as necessidades do negócio como as dos utilizadores;</li><li><strong>Design Gráfico</strong>: Trabalho no desenvolvimento de identidades visuais, incluindo cartões de visita, flyers, folders, entre outros. Produzo conteúdos publicitários alinhados com a identidade da marca para reforçar a presença no mercado;</li><li><strong>Gestão de Redes Sociais</strong>: Também atuo na criação e gestão de conteúdos para plataformas como Instagram, TikTok e YouTube, incluindo publicações, stories e vídeos. Busco fortalecer a presença digital e aumentar o envolvimento do público através de campanhas direcionadas.</li></ul>"
+      },      {
         "id": 1,
         "image": "https://lucasoriental.github.io/lucasorientalapi/images/jobExperiences/ibm_logo.png",
-        "jobTitle": "Desenvolvedor Web - Estágio",
-        "companyName": "IBM",
-        "time": "2022 - 2024",
-        "responsibilities": "<ul class=\"list-json-experience\"><li>Participei ativamente na migração do sistema “System Admin” (em RPGLE) para a WEB utilizando React, contribuindo para o aprimoramento dos sistemas de pagamento (GAPTS e MISC) da empresa;</li><li>Através da metodologia Scrum, participei de reuniões diárias (Daily Calls) para organizar as tarefas, tanto as futuras quanto as em andamento, o que melhorou significativamente a minha comunicação em inglês e o trabalho em equipe em um ambiente internacional;</li><li>Contribuí para a melhoria do desempenho das requisições para o Back-end, analisando as plataformas CloudIBM e Cirrus;</li><li>Atuei na análise e correção de vulnerabilidades relacionadas aos Cookies, CORS e PseudoRandom Number utilizando SonarQube;</li><li>Utilizei React (Hooks, Redux, NextJS, Router, Axios, Context) e Carbon Design como ferramentas principais de desenvolvimento;</li><li>Desenvolvi testes unitários utilizando Jest e automação de testes com Selenium;</li><li>Atuei na análise e aprovação de Pull Requests (GitHub) em ambientes DEV, UAT e PROD;</li><li>Preparei relatórios e resultados de testes em formatos .Docx, .pdf e .xls para apresentação durante as reuniões;</li><li>Recebi feedbacks positivos através da plataforma IBM Recognition de meus superiores e colegas de equipe, destacando meu esforço, dedicação e comprometimento com o trabalho.</li></ul>"
+        "jobTitle": "Desenvolvedor Full-Stack",
+        "companyName": "International Business Machines - IBM Brasil",
+        "time": "03/2022 - 03/2024",
+        "responsibilities": {
+          "responsibilities": "<ul class=\"list-json-experience\"><li><strong>Desenvolvimento Front-End</strong>: Atuei na construção e manutenção de interfaces com React JS, JavaScript, HTML e CSS, melhorando a usabilidade e acessibilidade através da colaboração com equipas multifuncionais;</li><li><strong>Desenvolvimento Back-End</strong>: Trabalhei na gestão de conexões com bases de dados e otimização de consultas SQL para operações CRUD, utilizando Node.js (Express) e IBM DB2, aumentando a eficiência e a capacidade de resposta do sistema;</li><li><strong>Testes Unitários</strong>: Desenvolvi testes unitários com Jest.js, alcançando uma cobertura mínima de 95%, o que aumentou a estabilidade do código e reduziu os erros após o lançamento;</li><li><strong>Migração e Otimização de Sistemas</strong>: Contribuí ativamente na migração do sistema financeiro, que utilizava RPGLE Modules, para uma aplicação Web baseada em React/Node.js, resultando num sistema mais eficiente e escalável;</li><li><strong>Segurança e Qualidade de Código</strong>: Resolvi vulnerabilidades de segurança (ex., Cookies, CORS) com recursos do SonarQube e revisei os PRs no GitHub para garantir elevados padrões de qualidade de código;</li><li><strong>Relatórios e Comunicação</strong>: Após a conclusão de cada nova implementação, construía relatórios detalhados, permitindo a análise e discussão dos resultados entre as equipas de Desenvolvimento e de Testes;</li><li><strong>Reconhecimento</strong>: Fui constantemente elogiado pelo bom trabalho em equipa, dedicação e entrega de resultados de alta qualidade dentro dos prazos estabelecidos.</li></ul>"
+        }
+        
       },
       {
         "id": 2,
@@ -744,6 +705,7 @@
         "behanceRepo": "https://www.behance.net/gallery/109813189/App-Music-(ML)-UI-Design"
       }
     ],
-    "aboutMe": "Chamo-me Lucas Oriental dos Santos e sou Desenvolvedor Web, apaixonado por criar experiências digitais interativas, eficientes e acessíveis. Recentemente, terminei a licenciatura em Ciência da Computação, o que me proporcionou uma base em Desenvolvimento de Software e Sistemas Computacionais. <br/><br/> A minha trajetória no mundo do desenvolvimento abrange todas as fases do ciclo de vida de uma aplicação, desde a idealização e planeamento até à entrega e manutenção de soluções que priorizam a experiência do utilizador. Valorizo a criação de interfaces modernas e responsivas, bem como a implementação de lógicas de aplicação robustas e integrações com APIs RESTful, utilizando ferramentas como Redux e Axios. <br/><br/> Durante o meu estágio na IBM, tive a oportunidade de colaborar com equipas internacionais, onde contribui para a modernização de sistemas críticos e a migração de arquiteturas tradicionais para soluções baseadas na web. Esta experiência não só aprofundou os meus conhecimentos técnicos em React, como também reforçou as minhas competências de comunicação e trabalho em equipa, habilidades fundamentais num ambiente globalizado e colaborativo. <br/><br/> Atualmente, enquanto freelancer, desenvolvo websites dinâmicos e personalizados, que atendem às necessidades específicas dos clientes, ao mesmo tempo que continuo a investir no meu crescimento profissional. Estou a expandir os meus conhecimentos em tecnologias como TypeScript e Python, procurando sempre aprimorar as soluções que entrego. <br/><br/> Acredito na importância de um equilíbrio entre design e funcionalidade. Por isso, combino a minha experiência em UX/UI para criar protótipos interativos, wireframes e interfaces intuitivas, assegurando que cada projeto não só seja tecnicamente sólido, mas também cativante e fácil de usar. <br/><br/><strong>Se procura alguém com paixão por desenvolvimento web, dedicação e uma vontade constante de aprender, adoraria conversar consigo!</strong> Seja para colaborar num projeto desafiador ou discutir uma oportunidade de trabalho. Entre em contacto comigo para saber mais ou para trabalharmos juntos!"
+  "aboutMe": "Olá! Chamo-me Lucas Oriental dos Santos, sou <strong>Desenvolvedor Full Stack</strong> com três anos de experiência em <strong>React.js, Node.js</strong> e <strong>gestão de bases de dados</strong>. A minha formação académica inclui um <strong>Bacharelado</strong> (Ensino superior - Graduação) <strong>em Ciência da Computação</strong>, complementada por <strong>cursos especializados</strong> em <strong>UX/UI Design, React, JavaScript</strong> e <strong>gestão de bases de dados</strong>. Esta combinação de conhecimentos técnicos e teóricos permite-me criar soluções completas, que unem desenvolvimento e design para gerar experiências <strong>impactantes</strong> e <strong>eficientes</strong>. <br><br> Ao longo da minha trajetória profissional, tive a oportunidade de trabalhar no desenvolvimento de aplicações web dinâmicas e projetos digitais com foco em <strong>alto desempenho, escalabilidade</strong> e <strong>acessibilidade</strong>. Sou apaixonado por <strong>tecnologias web de ponta</strong> e estou sempre em busca de novas habilidades para aprimorar minha experiência técnica. <br><br> Durante o meu tempo na IBM, tive a oportunidade de contribuir para o desenvolvimento de <strong>front-end</strong> e <strong>back-end</strong> de alta qualidade, principalmente em <strong>sistemas financeiros (GAPTS, MISC & GCMS)</strong>. O meu trabalho envolveu a criação de interfaces de utilizador com <strong>React</strong>, a otimização de processos no back-end com <strong>Node.js</strong> e a garantia da segurança e fiabilidade dos dados. Adquiri experiência prática na gestão de dados <strong>sensíveis</strong>, na melhoria do <strong>desempenho do sistema</strong> e na migração de <strong>sistemas legados</strong> para <strong>aplicações web modernas</strong>. Também ajudei a otimizar a <strong>qualidade</strong> do código, implementando <strong>testes unitários</strong> rigorosos e corrigindo <strong>vulnerabilidades de segurança</strong>, garantindo <strong>estabilidade e segurança</strong> em todo o processo de desenvolvimento. <br><br> Além da minha experiência como full stack, tenho uma base sólida em <strong>UX/UI Design</strong>, tendo criado interfaces intuitivas e acessíveis para diversos produtos digitais. O meu foco é ligar as necessidades dos utilizadores aos objetivos empresariais através do design, desde <strong>wireframes</strong> e <strong>protótipos</strong> até à <strong>interface final</strong>. <br><br> Atualmente, trabalho como freelancer, desenvolvendo sites e aplicações móveis dinâmicas e centradas no utilizador. O meu objetivo é ajudar clientes a construir presenças digitais fortes com soluções personalizadas que reflitam a sua identidade e visão únicas. <br><br> Sou um profissional <strong>organizado, proativo e dedicado</strong>, sempre à procura de crescer e aprimorar as minhas competências. Seja colaborando no desenvolvimento de sistemas complexos ou explorando novas tecnologias, sinto-me pronto para contribuir para projetos inovadores que desafiem os limites do possível. <br><br> Se procura um Desenvolvedor Full Stack <strong>apaixonado</strong> e <strong>versátil</strong>, com uma boa base tanto em <strong>front-end</strong> como em <strong>back-end</strong>, além de um olhar atento para o <strong>design</strong>, entre em contacto. Ficarei feliz em conversar sobre como posso contribuir para o seu projeto!"  
+
   }
 }
