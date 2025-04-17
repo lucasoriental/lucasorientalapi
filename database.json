@@ -2,6 +2,15 @@
   "en": {
     "certificatesIT": [
       {
+        "id": 0,
+        "platform": "TestDome",
+        "course": "React Exam - Ranking in the 10%",
+        "time": "1",
+        "credentialCode": "",
+        "credentialLink": "https://www.testdome.com/certificates/cc63453aaca943dfa958ec4309d0209c",
+        "img": "https://lucasoriental.github.io/lucasorientalapi/images/courses/testdome.webp"
+      },
+      {
         "id": 1,
         "platform": "Udemy - Geek University",
         "course": "JS do básico ao avançado (c/ Node e Projetos)",
@@ -95,138 +104,14 @@
         "websiteLink": "https://unicarioca.edu.br/"
       }
     ],
-    "skillsIT": [
-      {
-        "id": 1,
-        "title": "React",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/react.webp",
-        "professional": true
-      },
-      {
-        "id": 2,
-        "title": "JavaScript",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/javascript.webp",
-        "professional": true
-      },
-      {
-        "id": 3,
-        "title": "Python",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/python.webp",
-        "professional": false
-      },
-      {
-        "id": 4,
-        "title": "TypeScript",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/typescript.webp",
-        "professional": false
-      },
-      {
-        "id": 5,
-        "title": "MongoDb",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/mongodb.webp",
-        "professional": false
-      },
-      {
-        "id": 6,
-        "title": "MySQL",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/sql.webp",
-        "professional": true
-      },
-      {
-        "id": 7,
-        "title": "HTML:5",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/html.webp",
-        "professional": true
-      },
-      {
-        "id": 8,
-        "title": "SASS/SCSS",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/sass.webp",
-        "professional": true
-      },
-      {
-        "id": 9,
-        "title": "Carbon Design",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/carbonDesign.webp",
-        "professional": true
-      },
-      {
-        "id": 10,
-        "title": "Jest Js",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/jest.webp",
-        "professional": true
-      },
-      {
-        "id": 11,
-        "title": "Node Js",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/node.webp",
-        "professional": true
-      },
-      {
-        "id": 12,
-        "title": "Bootstrap",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/bootstrap.webp",
-        "professional": false
-      },
-      {
-        "id": 13,
-        "title": "TailWind",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/tailwind.webp",
-        "professional": false
-      }
-    ],
-    "skillsDesign": [
-      {
-        "id": 1,
-        "title": "Figma",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/figma.webp",
-        "professional": false
-      },
-      {
-        "id": 2,
-        "title": "Adobe XD",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/adobeXd.webp",
-        "professional": false
-      },
-      {
-        "id": 3,
-        "title": "Photoshop",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/photoshop.webp",
-        "professional": false
-      },
-      {
-        "id": 4,
-        "title": "Graphic Design",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/graphic_designer.webp",
-        "professional": false
-      },
-      {
-        "id": 5,
-        "title": "UX/UI Design",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/uxUiDesigner.webp",
-        "professional": false
-      },
-      {
-        "id": 6,
-        "title": "Icon Maker",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/iconMaker.webp",
-        "professional": false
-      },
-      {
-        "id": 7,
-        "title": "Video/Image Editor",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/videoEditor.webp",
-        "professional": false
-      }
-    ],
     "jobExperiences": [
       {
         "id": 0,
         "image": "https://lucasoriental.github.io/lucasorientalapi/images/jobExperiences/freelancer_logo.png",
-        "jobTitle": "Full-Stack Developer & Designer" ,
+        "jobTitle": "Full-Stack Developer & Designer",
         "companyName": "Freelancer <strong>(additional income)</strong>",
         "time": "03/2024 - Present",
-        "responsibilities": "<ul class=\"list-json-experience\"><li><strong>Full-Stack Development</strong>: I work on the design and development of websites, mobile applications, and e-commerce platforms, including features such as user authentication, shopping carts, product management systems, among others;</li><li><strong>UX/UI Design</strong>: I prioritize creating intuitive and responsive interfaces for digital products, from wireframes to prototypes. I also conduct usability testing to provide optimized experiences that meet both business needs and user expectations;</li><li><strong>Graphic Design</strong>: I develop visual identities, including business cards, flyers, brochures, and more. I create advertising content aligned with brand identity to strengthen market presence;</li><li><strong>Social Media Management</strong>: I also create and manage content for platforms such as Instagram, TikTok, and YouTube, including posts, stories, and videos. My focus is on strengthening digital presence and increasing audience engagement through targeted campaigns.</li></ul>"  
+        "responsibilities": "<ul class=\"list-json-experience\"><li><strong>Full-Stack Development</strong>: I work on the design and development of websites, mobile applications, and e-commerce platforms, including features such as user authentication, shopping carts, product management systems, among others;</li><li><strong>UX/UI Design</strong>: I prioritize creating intuitive and responsive interfaces for digital products, from wireframes to prototypes. I also conduct usability testing to provide optimized experiences that meet both business needs and user expectations;</li><li><strong>Graphic Design</strong>: I develop visual identities, including business cards, flyers, brochures, and more. I create advertising content aligned with brand identity to strengthen market presence;</li><li><strong>Social Media Management</strong>: I also create and manage content for platforms such as Instagram, TikTok, and YouTube, including posts, stories, and videos. My focus is on strengthening digital presence and increasing audience engagement through targeted campaigns.</li></ul>"
       },
       {
         "id": 1,
@@ -234,8 +119,8 @@
         "jobTitle": "Full-Stack Developer",
         "companyName": "International Business Machines - IBM Brasil",
         "time": "03/2022 - 03/2024",
-         "responsibilities": "<ul class=\"list-json-experience\"><li><strong>Front-End Development</strong>: I worked on building and maintaining interfaces using React JS, JavaScript, HTML, and CSS, improving usability and accessibility through collaboration with cross-functional teams;</li><li><strong>Back-End Development</strong>: I managed database connections and optimized SQL queries for CRUD operations using Node.js (Express) and IBM DB2, enhancing system efficiency and responsiveness;</li><li><strong>Unit Testing</strong>: I developed unit tests with Jest.js, achieving a minimum coverage of 95%, which increased code stability and reduced postrelease errors;</li><li><strong>System Migration and Optimization</strong>: I actively contributed to the migration of a financial system that previously used RPGLE Modules to a web application based on React/Node.js, resulting in a more efficient and scalable system;</li><li><strong>Security and Code Quality</strong>: I addressed security vulnerabilities (e.g., Cookies, CORS) using SonarQube and reviewed PRs on GitHub to ensure high coding standards;</li><li><strong>Reports and Communication</strong>: After each new implementation, I created detailed reports, enabling analysis and discussion of results between Development and Testing teams;</li><li><strong>Recognition</strong>: I was consistently praised for my teamwork, dedication, and ability to deliver high-quality results within established deadlines.</li></ul>"
-        },
+        "responsibilities": "<ul class=\"list-json-experience\"><li><strong>Front-End Development</strong>: I worked on building and maintaining interfaces using React JS, JavaScript, HTML, and CSS, improving usability and accessibility through collaboration with cross-functional teams;</li><li><strong>Back-End Development</strong>: I managed database connections and optimized SQL queries for CRUD operations using Node.js (Express) and IBM DB2, enhancing system efficiency and responsiveness;</li><li><strong>Unit Testing</strong>: I developed unit tests with Jest.js, achieving a minimum coverage of 95%, which increased code stability and reduced postrelease errors;</li><li><strong>System Migration and Optimization</strong>: I actively contributed to the migration of a financial system that previously used RPGLE Modules to a web application based on React/Node.js, resulting in a more efficient and scalable system;</li><li><strong>Security and Code Quality</strong>: I addressed security vulnerabilities (e.g., Cookies, CORS) using SonarQube and reviewed PRs on GitHub to ensure high coding standards;</li><li><strong>Reports and Communication</strong>: After each new implementation, I created detailed reports, enabling analysis and discussion of results between Development and Testing teams;</li><li><strong>Recognition</strong>: I was consistently praised for my teamwork, dedication, and ability to deliver high-quality results within established deadlines.</li></ul>"
+      },
       {
         "id": 2,
         "image": "https://lucasoriental.github.io/lucasorientalapi/images/jobExperiences/medgrupo_logo.png",
@@ -243,7 +128,6 @@
         "companyName": "Medgrupo",
         "time": "2021 - 2022",
         "responsibilities": "<ul class=\"list-json-experience\"><li>Provided IT support to employees, including resolving access and equipment maintenance issues at Medgrupo;</li><li>Configured VPN for Windows, Linux, and Apple environments;</li><li>Resolved issues via remote access (RDP/VNC) and configured employee access to the cloud;</li><li>Worked on redefining and configuring users in systems such as Active Directory and Google Admin;</li><li>Used Zabbix for monitoring, addressing issues such as the status of equipment and systems;</li><li>This experience enhanced my analytical skills and adaptability.</li></ul>"
-
       }
     ],
     "projects": [
@@ -355,6 +239,15 @@
   "pt": {
     "certificatesIT": [
       {
+        "id": 0,
+        "platform": "TestDome",
+        "course": "Exame React - TOP 10%",
+        "time": "1",
+        "credentialCode": "",
+        "credentialLink": "https://www.testdome.com/certificates/cc63453aaca943dfa958ec4309d0209c",
+        "img": "https://lucasoriental.github.io/lucasorientalapi/images/courses/testdome.webp"
+      },
+      {
         "id": 1,
         "platform": "Udemy - Geek University",
         "course": "JS do básico ao avançado (c/ Node e Projetos)",
@@ -448,130 +341,6 @@
         "websiteLink": "https://unicarioca.edu.br/"
       }
     ],
-    "skillsIT": [
-      {
-        "id": 1,
-        "title": "React",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/react.webp",
-        "professional": true
-      },
-      {
-        "id": 2,
-        "title": "JavaScript",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/javascript.webp",
-        "professional": true
-      },
-      {
-        "id": 3,
-        "title": "Python",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/python.webp",
-        "professional": false
-      },
-      {
-        "id": 4,
-        "title": "TypeScript",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/typescript.webp",
-        "professional": false
-      },
-      {
-        "id": 5,
-        "title": "MongoDb",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/mongodb.webp",
-        "professional": false
-      },
-      {
-        "id": 6,
-        "title": "MySQL",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/sql.webp",
-        "professional": true
-      },
-      {
-        "id": 7,
-        "title": "HTML:5",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/html.webp",
-        "professional": true
-      },
-      {
-        "id": 8,
-        "title": "SASS/SCSS",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/sass.webp",
-        "professional": true
-      },
-      {
-        "id": 9,
-        "title": "Carbon Design",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/carbonDesign.webp",
-        "professional": true
-      },
-      {
-        "id": 10,
-        "title": "Jest Js",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/jest.webp",
-        "professional": true
-      },
-      {
-        "id": 11,
-        "title": "Node Js",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/node.webp",
-        "professional": false
-      },
-      {
-        "id": 12,
-        "title": "Bootstrap",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/bootstrap.webp",
-        "professional": false
-      },
-      {
-        "id": 13,
-        "title": "TailWind",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/it/tailwind.webp",
-        "professional": false
-      }
-    ],
-    "skillsDesign": [
-      {
-        "id": 1,
-        "title": "Figma",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/figma.webp",
-        "professional": false
-      },
-      {
-        "id": 2,
-        "title": "Adobe XD",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/adobeXd.webp",
-        "professional": false
-      },
-      {
-        "id": 3,
-        "title": "Photoshop",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/photoshop.webp",
-        "professional": false
-      },
-      {
-        "id": 4,
-        "title": "Graphic Design",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/graphic_designer.webp",
-        "professional": false
-      },
-      {
-        "id": 5,
-        "title": "UX/UI Design",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/uxUiDesigner.webp",
-        "professional": false
-      },
-      {
-        "id": 6,
-        "title": "Icon Maker",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/iconMaker.webp",
-        "professional": false
-      },
-      {
-        "id": 7,
-        "title": "Video/Image Editor",
-        "img": "https://lucasoriental.github.io/lucasorientalapi/images/skills/design/videoEditor.webp",
-        "professional": false
-      }
-    ],
     "jobExperiences": [
       {
         "id": 0,
@@ -579,14 +348,15 @@
         "jobTitle": "Desenvolvedor Full-Stack & Designer",
         "companyName": "Freelancer <strong>(renda extra)</strong>",
         "time": "03/2024 - Presente",
-         "responsibilities": "<ul class=\"list-json-experience\"><li><strong>Desenvolvimento Full-Stack</strong>: Atuo na conceção e desenvolvimento de websites, aplicações móveis e plataformas de e-commerce, incluindo funcionalidades como autenticação de utilizadores, carrinhos de compras, sistemas de gestão de produtos, entre outras;</li><li><strong>Design UX/UI</strong>: Priorizo a criação de interfaces intuitivas e responsivas para produtos digitais, desde wireframes até protótipos. Realizo também testes de usabilidade para proporcionar experiências otimizadas que satisfaçam tanto as necessidades do negócio como as dos utilizadores;</li><li><strong>Design Gráfico</strong>: Trabalho no desenvolvimento de identidades visuais, incluindo cartões de visita, flyers, folders, entre outros. Produzo conteúdos publicitários alinhados com a identidade da marca para reforçar a presença no mercado;</li><li><strong>Gestão de Redes Sociais</strong>: Também atuo na criação e gestão de conteúdos para plataformas como Instagram, TikTok e YouTube, incluindo publicações, stories e vídeos. Busco fortalecer a presença digital e aumentar o envolvimento do público através de campanhas direcionadas.</li></ul>"
-      },      {
+        "responsibilities": "<ul class=\"list-json-experience\"><li><strong>Desenvolvimento Full-Stack</strong>: Atuo na conceção e desenvolvimento de websites, aplicações móveis e plataformas de e-commerce, incluindo funcionalidades como autenticação de utilizadores, carrinhos de compras, sistemas de gestão de produtos, entre outras;</li><li><strong>Design UX/UI</strong>: Priorizo a criação de interfaces intuitivas e responsivas para produtos digitais, desde wireframes até protótipos. Realizo também testes de usabilidade para proporcionar experiências otimizadas que satisfaçam tanto as necessidades do negócio como as dos utilizadores;</li><li><strong>Design Gráfico</strong>: Trabalho no desenvolvimento de identidades visuais, incluindo cartões de visita, flyers, folders, entre outros. Produzo conteúdos publicitários alinhados com a identidade da marca para reforçar a presença no mercado;</li><li><strong>Gestão de Redes Sociais</strong>: Também atuo na criação e gestão de conteúdos para plataformas como Instagram, TikTok e YouTube, incluindo publicações, stories e vídeos. Busco fortalecer a presença digital e aumentar o envolvimento do público através de campanhas direcionadas.</li></ul>"
+      },
+      {
         "id": 1,
         "image": "https://lucasoriental.github.io/lucasorientalapi/images/jobExperiences/ibm_logo.png",
         "jobTitle": "Desenvolvedor Full-Stack",
         "companyName": "International Business Machines - IBM Brasil",
         "time": "03/2022 - 03/2024",
-         "responsibilities": "<ul class=\"list-json-experience\"><li><strong>Desenvolvimento Front-End</strong>: Atuei na construção e manutenção de interfaces com React JS, JavaScript, HTML e CSS, melhorando a usabilidade e acessibilidade através da colaboração com equipas multifuncionais;</li><li><strong>Desenvolvimento Back-End</strong>: Trabalhei na gestão de conexões com bases de dados e otimização de consultas SQL para operações CRUD, utilizando Node.js (Express) e IBM DB2, aumentando a eficiência e a capacidade de resposta do sistema;</li><li><strong>Testes Unitários</strong>: Desenvolvi testes unitários com Jest.js, alcançando uma cobertura mínima de 95%, o que aumentou a estabilidade do código e reduziu os erros após o lançamento;</li><li><strong>Migração e Otimização de Sistemas</strong>: Contribuí ativamente na migração do sistema financeiro, que utilizava RPGLE Modules, para uma aplicação Web baseada em React/Node.js, resultando num sistema mais eficiente e escalável;</li><li><strong>Segurança e Qualidade de Código</strong>: Resolvi vulnerabilidades de segurança (ex., Cookies, CORS) com recursos do SonarQube e revisei os PRs no GitHub para garantir elevados padrões de qualidade de código;</li><li><strong>Relatórios e Comunicação</strong>: Após a conclusão de cada nova implementação, construía relatórios detalhados, permitindo a análise e discussão dos resultados entre as equipas de Desenvolvimento e de Testes;</li><li><strong>Reconhecimento</strong>: Fui constantemente elogiado pelo bom trabalho em equipa, dedicação e entrega de resultados de alta qualidade dentro dos prazos estabelecidos.</li></ul>"
+        "responsibilities": "<ul class=\"list-json-experience\"><li><strong>Desenvolvimento Front-End</strong>: Atuei na construção e manutenção de interfaces com React JS, JavaScript, HTML e CSS, melhorando a usabilidade e acessibilidade através da colaboração com equipas multifuncionais;</li><li><strong>Desenvolvimento Back-End</strong>: Trabalhei na gestão de conexões com bases de dados e otimização de consultas SQL para operações CRUD, utilizando Node.js (Express) e IBM DB2, aumentando a eficiência e a capacidade de resposta do sistema;</li><li><strong>Testes Unitários</strong>: Desenvolvi testes unitários com Jest.js, alcançando uma cobertura mínima de 95%, o que aumentou a estabilidade do código e reduziu os erros após o lançamento;</li><li><strong>Migração e Otimização de Sistemas</strong>: Contribuí ativamente na migração do sistema financeiro, que utilizava RPGLE Modules, para uma aplicação Web baseada em React/Node.js, resultando num sistema mais eficiente e escalável;</li><li><strong>Segurança e Qualidade de Código</strong>: Resolvi vulnerabilidades de segurança (ex., Cookies, CORS) com recursos do SonarQube e revisei os PRs no GitHub para garantir elevados padrões de qualidade de código;</li><li><strong>Relatórios e Comunicação</strong>: Após a conclusão de cada nova implementação, construía relatórios detalhados, permitindo a análise e discussão dos resultados entre as equipas de Desenvolvimento e de Testes;</li><li><strong>Reconhecimento</strong>: Fui constantemente elogiado pelo bom trabalho em equipa, dedicação e entrega de resultados de alta qualidade dentro dos prazos estabelecidos.</li></ul>"
       },
       {
         "id": 2,
@@ -595,7 +365,6 @@
         "companyName": "Medgrupo",
         "time": "2021 - 2022",
         "responsibilities": "<ul class=\"list-json-experience\"><li>Atuei no atendimento aos colaboradores, incluindo a resolução de problemas relacionados aos acessos e manutenções dos equipamentos de TI na Medgrupo;</li><li>Realizei a configuração de VPN para ambientes Windows, Linux e Apple;</li><li>Resolvi problemas através do acesso remoto (RDP/VNC) e configurei o acesso dos colaboradores para a nuvem;</li><li>Trabalhei na redefinição e configuração de usuários em sistemas como Active Directory e Google Admin;</li><li>Utilizei o Zabbix para monitoramento, abordando questões como o estado dos equipamentos e sistemas;</li><li>Essa experiência aprimorou minhas habilidades analíticas e minha adaptabilidade.</li></ul>"
-
       }
     ],
     "projects": [
@@ -702,7 +471,6 @@
         "behanceRepo": "https://www.behance.net/gallery/109813189/App-Music-(ML)-UI-Design"
       }
     ],
-  "aboutMe": "Olá! Chamo-me Lucas Oriental dos Santos, sou <strong>Desenvolvedor Full Stack</strong> com três anos de experiência em <strong>React.js, Node.js</strong> e <strong>gestão de bases de dados</strong>. A minha formação académica inclui um <strong>Bacharelado</strong> (Ensino superior - Graduação) <strong>em Ciência da Computação</strong>, complementada por <strong>cursos especializados</strong> em <strong>UX/UI Design, React, JavaScript</strong> e <strong>gestão de bases de dados</strong>. Esta combinação de conhecimentos técnicos e teóricos permite-me criar soluções completas, que unem desenvolvimento e design para gerar experiências <strong>impactantes</strong> e <strong>eficientes</strong>. <br><br> Ao longo da minha trajetória profissional, tive a oportunidade de trabalhar no desenvolvimento de aplicações web dinâmicas e projetos digitais com foco em <strong>alto desempenho, escalabilidade</strong> e <strong>acessibilidade</strong>. Sou apaixonado por <strong>tecnologias web de ponta</strong> e estou sempre em busca de novas habilidades para aprimorar minha experiência técnica. <br><br> Durante o meu tempo na IBM, tive a oportunidade de contribuir para o desenvolvimento de <strong>front-end</strong> e <strong>back-end</strong> de alta qualidade, principalmente em <strong>sistemas financeiros (GAPTS, MISC & GCMS)</strong>. O meu trabalho envolveu a criação de interfaces de utilizador com <strong>React</strong>, a otimização de processos no back-end com <strong>Node.js</strong> e a garantia da segurança e fiabilidade dos dados. Adquiri experiência prática na gestão de dados <strong>sensíveis</strong>, na melhoria do <strong>desempenho do sistema</strong> e na migração de <strong>sistemas legados</strong> para <strong>aplicações web modernas</strong>. Também ajudei a otimizar a <strong>qualidade</strong> do código, implementando <strong>testes unitários</strong> rigorosos e corrigindo <strong>vulnerabilidades de segurança</strong>, garantindo <strong>estabilidade e segurança</strong> em todo o processo de desenvolvimento. <br><br> Além da minha experiência como full stack, tenho uma base sólida em <strong>UX/UI Design</strong>, tendo criado interfaces intuitivas e acessíveis para diversos produtos digitais. O meu foco é ligar as necessidades dos utilizadores aos objetivos empresariais através do design, desde <strong>wireframes</strong> e <strong>protótipos</strong> até à <strong>interface final</strong>. <br><br> Atualmente, trabalho como freelancer, desenvolvendo sites e aplicações móveis dinâmicas e centradas no utilizador. O meu objetivo é ajudar clientes a construir presenças digitais fortes com soluções personalizadas que reflitam a sua identidade e visão únicas. <br><br> Sou um profissional <strong>organizado, proativo e dedicado</strong>, sempre à procura de crescer e aprimorar as minhas competências. Seja colaborando no desenvolvimento de sistemas complexos ou explorando novas tecnologias, sinto-me pronto para contribuir para projetos inovadores que desafiem os limites do possível. <br><br> Se procura um Desenvolvedor Full Stack <strong>apaixonado</strong> e <strong>versátil</strong>, com uma boa base tanto em <strong>front-end</strong> como em <strong>back-end</strong>, além de um olhar atento para o <strong>design</strong>, entre em contacto. Ficarei feliz em conversar sobre como posso contribuir para o seu projeto!"  
-
+    "aboutMe": "Olá! Chamo-me Lucas Oriental dos Santos, sou <strong>Desenvolvedor Full Stack</strong> com três anos de experiência em <strong>React.js, Node.js</strong> e <strong>gestão de bases de dados</strong>. A minha formação académica inclui um <strong>Bacharelado</strong> (Ensino superior - Graduação) <strong>em Ciência da Computação</strong>, complementada por <strong>cursos especializados</strong> em <strong>UX/UI Design, React, JavaScript</strong> e <strong>gestão de bases de dados</strong>. Esta combinação de conhecimentos técnicos e teóricos permite-me criar soluções completas, que unem desenvolvimento e design para gerar experiências <strong>impactantes</strong> e <strong>eficientes</strong>. <br><br> Ao longo da minha trajetória profissional, tive a oportunidade de trabalhar no desenvolvimento de aplicações web dinâmicas e projetos digitais com foco em <strong>alto desempenho, escalabilidade</strong> e <strong>acessibilidade</strong>. Sou apaixonado por <strong>tecnologias web de ponta</strong> e estou sempre em busca de novas habilidades para aprimorar minha experiência técnica. <br><br> Durante o meu tempo na IBM, tive a oportunidade de contribuir para o desenvolvimento de <strong>front-end</strong> e <strong>back-end</strong> de alta qualidade, principalmente em <strong>sistemas financeiros (GAPTS, MISC & GCMS)</strong>. O meu trabalho envolveu a criação de interfaces de utilizador com <strong>React</strong>, a otimização de processos no back-end com <strong>Node.js</strong> e a garantia da segurança e fiabilidade dos dados. Adquiri experiência prática na gestão de dados <strong>sensíveis</strong>, na melhoria do <strong>desempenho do sistema</strong> e na migração de <strong>sistemas legados</strong> para <strong>aplicações web modernas</strong>. Também ajudei a otimizar a <strong>qualidade</strong> do código, implementando <strong>testes unitários</strong> rigorosos e corrigindo <strong>vulnerabilidades de segurança</strong>, garantindo <strong>estabilidade e segurança</strong> em todo o processo de desenvolvimento. <br><br> Além da minha experiência como full stack, tenho uma base sólida em <strong>UX/UI Design</strong>, tendo criado interfaces intuitivas e acessíveis para diversos produtos digitais. O meu foco é ligar as necessidades dos utilizadores aos objetivos empresariais através do design, desde <strong>wireframes</strong> e <strong>protótipos</strong> até à <strong>interface final</strong>. <br><br> Atualmente, trabalho como freelancer, desenvolvendo sites e aplicações móveis dinâmicas e centradas no utilizador. O meu objetivo é ajudar clientes a construir presenças digitais fortes com soluções personalizadas que reflitam a sua identidade e visão únicas. <br><br> Sou um profissional <strong>organizado, proativo e dedicado</strong>, sempre à procura de crescer e aprimorar as minhas competências. Seja colaborando no desenvolvimento de sistemas complexos ou explorando novas tecnologias, sinto-me pronto para contribuir para projetos inovadores que desafiem os limites do possível. <br><br> Se procura um Desenvolvedor Full Stack <strong>apaixonado</strong> e <strong>versátil</strong>, com uma boa base tanto em <strong>front-end</strong> como em <strong>back-end</strong>, além de um olhar atento para o <strong>design</strong>, entre em contacto. Ficarei feliz em conversar sobre como posso contribuir para o seu projeto!"
   }
 }
