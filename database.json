@@ -132,6 +132,21 @@
     ],
     "projects": [
       {
+        "id": "12",
+        "img": "https://lucasoriental.github.io/lucasorientalapi/images/myProjects/crud_fastapi_aws.png",
+        "projectName": "CRUD Application - Python (Fast API & AWS)",
+        "projectArea": "Back-end Development",
+        "iconTechs": [
+          "https://lucasoriental.github.io/lucasorientalapi/images/technologies/fastapi_icon.png",
+          "https://lucasoriental.github.io/lucasorientalapi/images/technologies/aws.png",
+          "https://lucasoriental.github.io/lucasorientalapi/images/technologies/python.png", 
+          "https://lucasoriental.github.io/lucasorientalapi/images/technologies/sql_alchemy.png", 
+          "https://lucasoriental.github.io/lucasorientalapi/images/technologies/github.png"
+        ],
+        "projectDescription": "<span class=\"span-title\">Project Overview</span>: <br>This project is a clean and scalable CRUD API developed using Python, FastAPI, and SQLAlchemy, fully integrated with a PostgreSQL database hosted on AWS RDS. It supports standard create, read, update, and delete operations via RESTful endpoints, all documented and tested through FastAPI’s interactive Swagger UI. The system was built with modular architecture in mind to ensure clarity, maintainability, and scalability.<br><br><span class=\"span-title\">Responsibilities</span>: <br><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\">Backend Development:</span> Designed and implemented a full CRUD API using FastAPI and SQLAlchemy with best practices in modularity and separation of concerns; </li><li><span class=\"span-emphasis\">Cloud Integration:</span> Configured and connected the application to a PostgreSQL instance hosted on AWS RDS; </li><li><span class=\"span-emphasis\">Environment Configuration:</span> Secured sensitive information using environment variables managed with dotenv; </li><li><span class=\"span-emphasis\">Architecture:</span> Structured the application into clear layers (models, schemas, routers, services) to improve scalability and code maintenance; </li><li><span class=\"span-emphasis\">Testing and Documentation:</span> Utilised FastAPI’s built-in Swagger UI at /docs to test and document all endpoints efficiently. </li></ul><br><span class=\"span-title\">Tools and Technologies Used</span>:<br><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\">Development and Deployment:</span> Python, FastAPI, SQLAlchemy, AWS RDS; </li><li><span class=\"span-emphasis\">Environment and Configuration:</span> python-dotenv; </li><li><span class=\"span-emphasis\">Testing and Documentation:</span> FastAPI Swagger UI (/docs). </li></ul><br><span class=\"span-title\">Main Purpose</span>:<br>The main goal of this project was to deepen my expertise in backend development while integrating cloud services, creating a performant and scalable API solution using modern Python tools.<br><br><span class=\"span-title\">Outcome</span>:<br>This project strengthened my understanding of backend architecture, modular design, and cloud-based database integration. It demonstrated how efficient and maintainable an API can be when developed with FastAPI and AWS infrastructure, laying the foundation for more advanced distributed systems.",
+        "gitHubRepo": "https://github.com/lucasoriental/CrudApp_FastAPI_and_AWS"
+      },
+      {
         "id": "0",
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/myProjects/ruteMatos.png",
         "projectName": "Professional Portfolio (Psychologist)",
@@ -368,6 +383,21 @@
       }
     ],
     "projects": [
+      {
+        "id": "12",
+        "img": "https://lucasoriental.github.io/lucasorientalapi/images/myProjects/crud_fastapi_aws.png",
+        "projectName": "Aplicação CRUD - Python (FastAPI & AWS)",
+        "projectArea": "Desenvolvimento Back-end",
+        "iconTechs": [
+          "https://lucasoriental.github.io/lucasorientalapi/images/technologies/fastapi_icon.png",
+          "https://lucasoriental.github.io/lucasorientalapi/images/technologies/aws.png",
+          "https://lucasoriental.github.io/lucasorientalapi/images/technologies/python.png",
+          "https://lucasoriental.github.io/lucasorientalapi/images/technologies/sql_alchemy.png",
+          "https://lucasoriental.github.io/lucasorientalapi/images/technologies/github.png"
+        ],
+        "projectDescription": "<span class=\"span-title\">Visão Geral do Projeto</span>: <br>Este projeto é uma API CRUD limpa e escalável desenvolvida com Python, FastAPI e SQLAlchemy, totalmente integrada com uma base de dados PostgreSQL alojada na AWS RDS. Suporta operações padrão de criação, leitura, atualização e eliminação através de endpoints RESTful, todos documentados e testados através da interface interativa Swagger UI do FastAPI. O sistema foi desenvolvido com uma arquitetura modular para garantir clareza, manutenibilidade e escalabilidade.<br><br><span class=\"span-title\">Responsabilidades</span>: <br><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\">Desenvolvimento Back-end:</span> Concepção e implementação de uma API CRUD completa utilizando FastAPI e SQLAlchemy, com boas práticas de modularidade e separação de responsabilidades; </li><li><span class=\"span-emphasis\">Integração com a Nuvem:</span> Configuração e ligação da aplicação a uma instância PostgreSQL alojada na AWS RDS; </li><li><span class=\"span-emphasis\">Configuração de Ambiente:</span> Proteção de informações sensíveis utilizando variáveis de ambiente geridas com dotenv; </li><li><span class=\"span-emphasis\">Arquitectura:</span> Estruturação da aplicação em camadas distintas (modelos, esquemas, routers, serviços) para melhorar a escalabilidade e a manutenção do código; </li><li><span class=\"span-emphasis\">Testes e Documentação:</span> Utilização da interface Swagger UI integrada do FastAPI em /docs para testar e documentar todos os endpoints de forma eficiente. </li></ul><br><span class=\"span-title\">Ferramentas e Tecnologias Utilizadas</span>:<br><ul class=\"modal-project-list\"><li><span class=\"span-emphasis\">Desenvolvimento e Deploy:</span> Python, FastAPI, SQLAlchemy, AWS RDS; </li><li><span class=\"span-emphasis\">Ambiente e Configuração:</span> python-dotenv; </li><li><span class=\"span-emphasis\">Testes e Documentação:</span> FastAPI Swagger UI (/docs). </li></ul><br><span class=\"span-title\">Objetivo Principal</span>:<br>O principal objetivo deste projeto foi aprofundar os meus conhecimentos em desenvolvimento back-end, integrando serviços na nuvem e criando uma solução de API performante e escalável com ferramentas modernas do ecossistema Python.<br><br><span class=\"span-title\">Resultado</span>:<br>Este projeto reforçou o meu entendimento sobre arquitetura de back-end, design modular e integração com bases de dados em nuvem. Demonstrou como uma API pode ser eficiente e de fácil manutenção quando desenvolvida com FastAPI e infraestrutura AWS, abrindo caminho para sistemas distribuídos mais avançados.",
+        "gitHubRepo": "https://github.com/lucasoriental/CrudApp_FastAPI_and_AWS"
+      },
       {
         "id": "0",
         "img": "https://lucasoriental.github.io/lucasorientalapi/images/myProjects/ruteMatos.png",
